@@ -1,7 +1,6 @@
 # RainCast
 Rainfall Forecasting using Machine Learning
 
-Overview
 This project includes Python scripts for forecasting rainfall using regression models, 
 evaluating performance with metrics, and visualizing results. Models include Linear Regression, 
 Decision Tree, Random Forest, K-Nearest Neighbors, and SVM.
